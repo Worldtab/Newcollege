@@ -1,3 +1,3 @@
 # Newcollege
-This is my college repos
+This is my college repos.
 Author - WorldTab
